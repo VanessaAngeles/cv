@@ -92,9 +92,9 @@ Alorica Inc. | December 2011 – 2017
 
 ### Education
 
-| Course                                         | School             | Year Graduated       |
-|:------------------------------------|:------------------------------|:---------------------|
-| Bachelor of Science in Nursing      | Lyceum Norhtwestern College   | April 2007           |
+| Course                                         | School                | Year Graduated       |
+|:------------------------------------|:---------------------------------|:---------------------|
+| Bachelor of Science in Nursing      | Lyceum Norhtwestern University   | April 2007           |
 
 ### Skills
 
