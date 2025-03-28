@@ -12,18 +12,18 @@ Passionate about delivering top-tier service, increasing operational efficiency,
 
 #### Senior Executive Assistant & Client Care Coordinator
 AD&Co |Dec 2022 — Dec 2024
-• Provided high-level executive support to C-level executives, managing calendars, travel, and strategic initiatives.
-• Led business operations, overseeing transaction listings, vendor coordination, and process automation.
-• Managed cross-functional projects in client relations, sales, and marketing operations.
-• Developed and optimized SOPs, training programs, and workflow efficiency to enhance productivity.
-• Implemented CRM tools (Salesforce, Active Campaign, Trello, Asana) for streamlined client interactions
+- Provided high-level executive support to C-level executives, managing calendars, travel, and strategic initiatives.
+- Led business operations, overseeing transaction listings, vendor coordination, and process automation.
+- Managed cross-functional projects in client relations, sales, and marketing operations.
+- Developed and optimized SOPs, training programs, and workflow efficiency to enhance productivity.
+- Implemented CRM tools (Salesforce, Active Campaign, Trello, Asana) for streamlined client interactions
 
 #### Operations & Client Success Manager
 Malabute Properties |Jun 2023 — Jul 2024
-• Led client success strategies to increase customer retention and satisfaction.
-• Optimized lead generation, cold outreach, and contract processing to drive revenue growth.
-• Developed streamlined customer experience systems, ensuring smooth transactions and follow-ups.
-• Created high-impact scripts, sales strategies, and operational playbooks.
+- Led client success strategies to increase customer retention and satisfaction.
+- Optimized lead generation, cold outreach, and contract processing to drive revenue growth.
+- Developed streamlined customer experience systems, ensuring smooth transactions and follow-ups.
+- Created high-impact scripts, sales strategies, and operational playbooks.
 
 #### Executive Business Partner | Chief Executive Officer Support
 Salguero Training Technologies / CS3 Investments | Aug 2022 — May 2023
